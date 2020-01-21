@@ -1,9 +1,5 @@
 # Cloud public - TP1
 
-## S'enregistrer sur AWS Educate
-
-https://aws.amazon.com/education/awseducate
-
 ## IaaS
 
 * Créer une machine EC2
